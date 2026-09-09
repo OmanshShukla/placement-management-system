@@ -114,3 +114,83 @@ Placement-Management-Portal/
 │   └── vite.config.js
 │
 └── README.md
+---
+
+## 📸 Screenshots
+
+### Login Page
+
+![Login Page](screenshots/login.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Student Dashboard
+
+![Student Dashboard](screenshots/student-dashboard.png)
+
+### Placement Drives
+
+![Placement Drives](screenshots/placement-drives.png)
+
+### Applications
+
+![Applications](screenshots/applications.png)
+
+### Student Dashboard
+
+![Student Dashboard](screenshots/student-dashboard.png)
+
+### Student Placement Drives
+
+![Student Placement Drives](screenshots/student-PlacementDrive.png)
+
+### Student Applications
+
+![Student Applications](screenshots/student-applications.png)
+
+---
+
+## 🚀 Future Improvements
+
+- Email notifications for placement updates
+- Resume upload and management
+- Advanced placement analytics
+- Search and filtering for drives and companies
+- Student profile management
+- Deployment using Docker and cloud services
+
+---
+
+## 📌 Tested Functionality
+
+- Admin login
+- Student login
+- JWT authentication
+- Role-based authorization
+- Company CRUD operations
+- Placement drive CRUD operations
+- Student CRUD operations
+- Student placement application
+- Duplicate application prevention
+- Application status updates
+- Student application tracking
+- Protected Admin-only APIs
+
+---
+
+## 👨‍💻 Author
+
+**Omansh Shukla**
+
+B.Tech CSE (AI)  
+NIET
+
+GitHub: [OmanshShukla](https://github.com/OmanshShukla)
+
+---
+
+## 📄 License
+
+This project is created for educational and portfolio purposes.
